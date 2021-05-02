@@ -1,7 +1,7 @@
 # Localization GAN
 This is an implementation of the paper [Using Synthetic Data to Enhance the Accuracy of Fingerprint-based Localization: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/8981805), IEEE Sensors Letters,  vol. 4, no. 4, pp. 1-4, April 2020, doi: 10.1109/LSENS.2020.2971555. 
 
-<p align="center"><img width=60% src="https://raw.githubusercontent.com/hnavidan/LocalizationGAN/master/model.png"></p>
+<p align="center"><img width=90% src="https://raw.githubusercontent.com/hnavidan/LocalizationGAN/master/model.png"></p>
 
 This code utilizes Generative Adversarial Networks (GANs) to enhance the accuracy of Wi-Fi Received Signal Strength (RSS) fingerprint-based localization methods.
 
